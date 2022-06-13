@@ -6,7 +6,7 @@
                               to DataBase Managers and websites or even android Apps.
 - 🌱 I’m currently learning C#, HTML and Java
 - 💞️ I’m looking to collaborate on Android Apps (Java) or small python projects
-- 📫 I can be reached on alexfdias1801@gmail.com (checked every 15 days) or GodsFAVsimp#7257 (Discord, checked every day)
+- 📫 I can be reached on alexfdias1801@gmail.com (checked every 15 days) or AcisSys#7257 (Discord, checked every day)
           If you think you have a challenge I will find entertaining
                     Email me or message me on Discord, I'll be more than happy to take your challenge if i have time
 
